@@ -26,4 +26,6 @@ git checkout main
 git merge Ashiq-br
 
 git checkout main
-
+git add .
+git commit -m 'updated Git command file'
+git push
