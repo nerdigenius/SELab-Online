@@ -1,0 +1,5 @@
+git clone "https://github.com/nerdigenius/SELab-Online.git"
+
+cd SELab-Online
+
+git add .
